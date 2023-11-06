@@ -9,13 +9,7 @@ Um pequeno passo todos os dias que mudaram a humanidade, fique à vontade para a
 </br>
 - 🕮 Estou estudando atualmente o Java, React, SQL.
 - 🕸️ Um dev fâ do Homem aranha 
-<div style="display: inline_block"><br>
-    <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
-     <img align="center" alt="joao-Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-    
 
-<br>
 </br>
  Você pode me encontrar aqui :
 <br>

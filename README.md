@@ -1,18 +1,65 @@
-#Welcome to my github
+ <h1> Bem vindo ao meu github</h1>
+<h2>Um pequeno passo todos os dias que mudaram a humanidade, fique à vontade para acompanhar minha jornada</h2>
+-João Vitor Carvalho <br>
+-21 y<br>
+-Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
+<br>
+-Gerente de comercio da Empresa Júnior - Next Step.
+
+<div style="display: inline_block">
+  <h2>Languages</h2>
+  <div>
+  <img align="center" alt="Joao-Java" height="30" width="100" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
+  <img align="center" alt="joao-Js" height="30" width="100" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="joao-Js" height="30" width="100" src="https://img.shields.io/badge/Typescript-1767B4?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="joao-Cplusplus" height="30" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </div>
+  <div>
+  <img align="center" alt="joao-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="joao-html" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="joao-css" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  </div> 
+  <br>
+  <div>
+  <h2>Estudando</h2>
+  <img align="center" alt="joao-react" height="30" width="100" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div>
+</div>
+</div>
+<div style="display: inline_block">
+  <h2 >Contact</h2>
+   <a href="https://www.linkedin.com/in/joao-carvalho21/" target="_blank"><img height="30" width="100"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaovitordtna0@gmail.com"><img  height="30" width="100" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div> 
+  <br>
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/JoaovitorCarvalho20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovitorCarvalho20&layout=compact&langs_count=7&theme=dracula"/>  
+</div>
+ 
+  
 
 
-**JoaovitorCarvalho20/JoaovitorCarvalho20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br>
-</br>
-Um pequeno passo todos os dias que mudaram a humanidade, fique à vontade para acompanhar minha jornada
-<br>
-</br>
-- 🕮 Estou estudando atualmente o Java, React, SQL.
-- 🕸️ Um dev fâ do Homem aranha 
 
-</br>
- Você pode me encontrar aqui :
-<br>
-</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 

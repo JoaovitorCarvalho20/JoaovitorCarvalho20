@@ -16,7 +16,9 @@
   <img height="30" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<h2>Top Linguagens no GitHub</h2>
-<a href="https://github.com/JoaovitorCarvalho20">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovitorCarvalho20&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+<div align="left" style="display: inline_block">
+  <h2>Top Linguagens no GitHub</h2>
+  <a href="https://github.com/JoaovitorCarvalho20">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovitorCarvalho20&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
